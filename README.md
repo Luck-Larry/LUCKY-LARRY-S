@@ -2,8 +2,6 @@
 
 ## Description
 
-<img src="https://user-images.githubusercontent.com/101947579/186239568-129f446f-ef9c-47e1-964a-aa33cc0f36f7.gif"/>
-
 ### Games
   * ### Roulette
  
