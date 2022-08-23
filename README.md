@@ -8,7 +8,6 @@
 
 ### Games
   * ### Roulette
-![](https://imgur.com/icDRsAa.jpg)
 <img width="898" alt="roulette" src="https://user-images.githubusercontent.com/101947579/186241842-f741b97b-49a0-45a6-9240-d5d461eb3e1d.png">
  
   * ### Scratch Tickets
