@@ -2,7 +2,8 @@
 
 ## Description
 
-Coming Soon
+[Screen Recording 2022-08-23 at 11-37-08](https://user-images.githubusercontent.com/101947579/186239568-129f446f-ef9c-47e1-964a-aa33cc0f36f7.gif)
+
 
 ### Games
   * ### Roulette
