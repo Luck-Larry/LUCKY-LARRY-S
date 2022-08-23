@@ -4,7 +4,7 @@
 
 ### Games
   * ### Roulette
-  ![style-selector](https://imgur.com/icDRsAa)
+  ![roulette](https://imgur.com/icDRsAa)
   * ### Scratch Tickets
 
   * ### Slots
